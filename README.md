@@ -6,9 +6,9 @@
 **Version:** 1.0  
 **Build Date:** 1.5.2023  
 
-URLpicSaver is a self made tool for making digital online image collections. URLpicSaver creates single text file and adds all image links into text file that user inputs. It is possible also to add Tags and Names for each link. URLpicSaver can browse added images and filter results by Tag or Name, it is also possible to delete or edit existing Links, Names and Tags. User Interface Colors, buttons, text colors etc. are customizable.
+URLpicSaver is a self made tool for making digital online image collections. URLpicSaver creates single text file and adds all image links into text file that user inputs. It is possible also to add Tags and Names for each link. URLpicSaver can browse added images and filter results by Tag or Name, it is also possible to delete or edit existing image links, Names and Tags. User Interface Colors, buttons, text colors etc. are customizable.
 
-Download at: https://github.com/ramitammela/EasyRead/releases/tag/build
+Download at: -
 
 ##
 
@@ -17,7 +17,9 @@ Download at: https://github.com/ramitammela/EasyRead/releases/tag/build
 ❍ Add Tag and Name (optional)  
 ❍ Edit/Remove URL, Tag or Name  
 ❍ Browse added URL images  
-❍ Filter images by Tag, Name or both  
+❍ Filter images by Tag, Name or both    
+❍ Multiple Collections  
+❍ Back Up & Clear All -buttons
 ❍ Copy image links  
 ❍ Customizable UI/User Interface Colors with Color Picker 
 
@@ -26,19 +28,31 @@ Download at: https://github.com/ramitammela/EasyRead/releases/tag/build
 
 ##
 
+###### Image: Add new Window
+![urlpicsaver_2](https://github.com/ramitammela/URLpicSaver/assets/33514265/4c98d63f-d0e3-4f53-9131-8b49c44db44a)
 
+###### Image: Collection View
+![urlpicsaver_1](https://github.com/ramitammela/URLpicSaver/assets/33514265/f04e524a-167e-46f3-904b-69d3fa9b23d7)
 
 ###### Image: Collection file (saves url, tag and name)
-![urlpicsaver_files](https://github.com/ramitammela/URLpicSaver/assets/33514265/75df7774-9ccb-49c7-83c1-cbadeac11809)
-
-
-###### Image: Settings Window + Custom Color Theme Settings (image 2)
-![urlpicsaver_settings1](https://github.com/ramitammela/URLpicSaver/assets/33514265/448270df-c11f-477f-b480-c95fdcc765db)
-![urlpicsaver_settings2](https://github.com/ramitammela/URLpicSaver/assets/33514265/96b604c0-8b7e-4d53-9cf1-b8492106fe3d)
+![urlpicsaver_files](https://github.com/ramitammela/URLpicSaver/assets/33514265/4ef5ba13-ad85-495b-ac03-36a81b5804d1)
 
 ###### Image: Settings Window + Custom Color Theme Settings (image 2)
+![urlpicsaver_settings2](https://github.com/ramitammela/URLpicSaver/assets/33514265/a9d233b6-ae3a-4e15-80e2-24f3e81759f6)
+
+###### Image: Edit Window
+![urlpicsaver_4](https://github.com/ramitammela/URLpicSaver/assets/33514265/759b289b-dccd-4f44-9f5a-495081a6731f)
+
+###### Image: Filter Window
+![urlpicsaver_3](https://github.com/ramitammela/URLpicSaver/assets/33514265/52a87043-fbda-43d0-9ca6-bf076cdf7af8)
+
 
 ##
+
+
+
+###### Videos will be added later!
+
 
 ###### Video: URLpicSaver
 https://user-images.githubusercontent.com/33514265/206459207-a7c36844-7eb8-4cd3-a7a8-6ff37007d457.mp4
