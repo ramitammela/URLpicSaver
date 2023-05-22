@@ -17,9 +17,11 @@ Download at: -
 ❍ Add Tag and Name (optional)  
 ❍ Edit/Remove URL, Tag or Name  
 ❍ Browse added URL images  
-❍ Filter images by Tag, Name or both    
+❍ Filter images by Tag, Name or both  
+❍ Save Tags & Names in Filter Window as shortcut buttons  
+❍ Save websites as bookmarks  
 ❍ Multiple Collections  
-❍ Back Up & Clear All -buttons
+❍ Back Up & Clear All -buttons  
 ❍ Copy image links  
 ❍ Customizable UI/User Interface Colors with Color Picker 
 
@@ -34,10 +36,10 @@ Download at: -
 ###### Image: Collection View
 ![urlpicsaver_1](https://github.com/ramitammela/URLpicSaver/assets/33514265/f04e524a-167e-46f3-904b-69d3fa9b23d7)
 
-###### Image: Collection file (saves url, tag and name)
+###### Image: Collection file (saves URL, tag and name)
 ![urlpicsaver_files](https://github.com/ramitammela/URLpicSaver/assets/33514265/4ef5ba13-ad85-495b-ac03-36a81b5804d1)
 
-###### Image: Settings Window + Custom Color Theme Settings (image 2)
+###### Image: Settings Window + Custom Color Theme Settings
 ![urlpicsaver_settings2](https://github.com/ramitammela/URLpicSaver/assets/33514265/a9d233b6-ae3a-4e15-80e2-24f3e81759f6)
 
 ###### Image: Edit Window
@@ -51,7 +53,7 @@ Download at: -
 
 
 
-###### Videos will be added later!
+#### Videos will be added later!
 
 
 ###### Video: URLpicSaver
