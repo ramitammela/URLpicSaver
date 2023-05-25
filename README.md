@@ -8,7 +8,7 @@
 
 URLpicSaver is a self made tool for making digital online image collections. URLpicSaver creates single text file and adds all image links into text file that user inputs. It is possible also to add Tags and Names for each link. URLpicSaver can browse added images and filter results by Tag or Name, it is also possible to delete or edit existing image links, Names and Tags. User Interface Colors, buttons, text colors etc. are customizable.
 
-Download at: -
+Download at: https://github.com/ramitammela/URLpicSaver/releases/tag/Build
 
 ##
 
